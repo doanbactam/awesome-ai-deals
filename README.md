@@ -31,7 +31,6 @@ Powerful AI-powered development environments and code editors.
 | [**Trae AI**](https://www.trae.ai/) | $13/month | **$10 OFF** - $3/month | TRAE IDE integrates seamlessly into your workflow for maximum performance | Limited time |
 | [**Windsurf**](https://windsurf.com/pricing) | $15/month | **2 week free trial** available | Codeium's agentic IDE - flows through code with AI copilot | Ongoing |
 | [**Kiro IDE**](https://kiro.dev/startups/ "Kiro")      | **FREE ONE YEARS**                    |Kiro helps you do your best work by bringing structure to AI coding with                                                  | Kiro for startups              |
-| [**Vercel Agent**](https://vercel.com/ai "Vercel Agent") | **$100 trial credit** for Pro teams | Build and run AI agents on Vercel | 2 weeks |
 | [**GitHub Copilot**](https://github.com/features/copilot) | $10/month | **Free for students** | AI pair programmer from GitHub and OpenAI | For verified students |
 | [**CodeWhisperer**](https://aws.amazon.com/codewhisperer/) | Free | **100% FREE** | Amazon's AI coding companion for individual developers | Ongoing |
 
