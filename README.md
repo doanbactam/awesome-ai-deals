@@ -15,7 +15,6 @@
 - [🎨 AI Design & Creative Tools](#-ai-design--creative-tools)
 - [📝 AI Writing & Content Tools](#-ai-writing--content-tools)
 - [🔬 AI Research & Analytics](#-ai-research--analytics)
-- [🎓 AI Learning Platforms](#-ai-learning-platforms)
 - [📊 How to Use This List](#-how-to-use-this-list)
 - [🤝 Contributing](#-contributing)
 
@@ -46,7 +45,6 @@ Access to cutting-edge AI models and APIs at discounted rates.
 | [**OpenAI API**](https://openai.com/api/pricing/) | Pay-per-use | **$5 free credits** | Access to GPT-4, GPT-3.5, DALL-E, and more | New users |
 | [**Google AI Studio**](https://ai.google.dev/) | Free | **100% FREE** | Free access to Gemini Pro API | Ongoing |
 | [**Groq Cloud**](https://groq.com/pricing) | Pay-per-use | **100% FREE tier** | Fast, low-cost inference with free API key and rate limits | Ongoing |
-| [**OpenRouter**](https://openrouter.ai/pricing) | Pay-as-you-go | **Free models** (10 req/day) | Unified API for 300+ models; 25+ free models | Ongoing |
 | [**Perplexity API (Startups)**](https://www.perplexity.ai/startups) | Pay-per-use | **$5,000 API credits** | Eligible startups also get 6 months Enterprise Pro | Rolling |
 
 
@@ -97,16 +95,6 @@ AI assistants for writing, grammar, and content creation.
 ## 🔬 AI Research & Analytics
 
 AI tools for research, data analysis, and insights.
-
-| Name | Regular Price | Discount | Description | Valid Until |
-|------|---------------|----------|-------------|-------------|
-
-
----
-
-## 🎓 AI Learning Platforms
-
-Educational platforms and resources for learning AI.
 
 | Name | Regular Price | Discount | Description | Valid Until |
 |------|---------------|----------|-------------|-------------|
