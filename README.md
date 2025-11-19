@@ -32,6 +32,7 @@ Powerful AI-powered development environments and code editors.
 | [**Kiro IDE**](https://kiro.dev/startups/ "Kiro")      | **FREE ONE YEARS**                    |Kiro helps you do your best work by bringing structure to AI coding with                                                  | Kiro for startups              |
 | [**GitHub Copilot**](https://github.com/features/copilot) | $10/month | **Free for students** | AI pair programmer from GitHub and OpenAI | For verified students |
 | [**CodeWhisperer**](https://aws.amazon.com/codewhisperer/) | Free | **100% FREE** | Amazon's AI coding companion for individual developers | Ongoing |
+| [**Google Antigravity**](https://antigravity.google/) |  |**FREE RATE LIMITS** | Google Antigravity Blinking CursorGoogle Antigravity is our agentic development platform, evolving the IDE into the agent-first era | Limited time
 
 ---
 
@@ -46,7 +47,7 @@ Access to cutting-edge AI models and APIs at discounted rates.
 | [**Google AI Studio**](https://ai.google.dev/) | Free | **100% FREE** | Free access to Gemini Pro API | Ongoing |
 | [**Groq Cloud**](https://groq.com/pricing) | Pay-per-use | **100% FREE tier** | Fast, low-cost inference with free API key and rate limits | Ongoing |
 | [**Perplexity API (Startups)**](https://www.perplexity.ai/startups) | Pay-per-use | **$5,000 API credits** | Eligible startups also get 6 months Enterprise Pro | Rolling |
-
+| [**MiniMax M2**](https://x.com/cline/status/1990590543303487659) | Free in Cline | **Free Limited** | MiniMax M2 is free again in Cline! | Limited times|
 
 ---
 
