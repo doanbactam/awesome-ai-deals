@@ -58,7 +58,6 @@ Essential AI-powered tools for developers.
 |------|---------------|----------|-------------|-------------|
 | [**v0.app**](https://v0.app/) | Free | **$5 FREE** (first month) | AI UI prototyping by Vercel; Free plan: 5 chats/day limit | Limited time |
 | [**Vercel Agent**](https://vercel.com/ai) | Usage-based | **$100 credit** (Pro/Enterprise) | AI code reviews and incident investigations | Public beta |
-| [**Hugging Face Inference Providers**](https://huggingface.co/pricing) | Pay-as-you-go | **Monthly credits** ($0.10 Free, $2 PRO) | Centralized access to 200+ models with starter credits | Ongoing |
 
 ---
 
