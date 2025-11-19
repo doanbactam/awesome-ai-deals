@@ -1,7 +1,6 @@
 # 🎉 Awesome AI Deals
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--11-blue.svg)](https://github.com/doanbactam/awesome-ai-deals)
 
 > A curated list of the best AI tool deals, discounts, and promotions for developers, designers, and creators.
@@ -123,6 +122,9 @@ We welcome contributions! To add a new AI deal:
    ```
 4. **Create a Pull Request**
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=doanbactam/awesome-ai-deals&type=date&legend=top-left)](https://www.star-history.com/#doanbactam/awesome-ai-deals&type=date&legend=top-left)
 
 ## 🙏 Acknowledgments
 
