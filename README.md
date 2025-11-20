@@ -27,7 +27,6 @@ Powerful AI-powered development environments and code editors.
 |------|---------------|----------|-------------|-------------|
 | [**Qoder**](https://qoder.com/pricing) | $20/month | **80% OFF** - $2/month | Agentic Coding Platform with world's latest AI models, code completion, test generation | Limited time |
 | [**Trae AI**](https://www.trae.ai/) | $13/month | **$10 OFF** - $3/month | TRAE IDE integrates seamlessly into your workflow for maximum performance | Limited time |
-| [**Windsurf**](https://windsurf.com/pricing) | $15/month | **2 week free trial** available | Codeium's agentic IDE - flows through code with AI copilot | Ongoing |
 | [**Kiro IDE**](https://kiro.dev/startups/ "Kiro")      | **FREE ONE YEARS**                    |Kiro helps you do your best work by bringing structure to AI coding with                                                  | Kiro for startups              |
 | [**GitHub Copilot**](https://github.com/features/copilot) | $10/month | **Free for students** | AI pair programmer from GitHub and OpenAI | For verified students |
 | [**Google Antigravity**](https://antigravity.google/) |  |**FREE RATE LIMITS** | Google Antigravity Blinking CursorGoogle Antigravity is our agentic development platform, evolving the IDE into the agent-first era | Limited time
