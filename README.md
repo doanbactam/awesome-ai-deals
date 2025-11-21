@@ -55,6 +55,7 @@ Essential AI-powered tools for developers.
 |------|---------------|----------|-------------|-------------|
 | [**v0.app**](https://v0.app/) | Free | **$5 FREE** (first month) | AI UI prototyping by Vercel; Free plan: 5 chats/day limit | Limited time |
 | [**Vercel Agent**](https://vercel.com/ai) | Usage-based | **$100 credit** (Pro/Enterprise) | AI code reviews and incident investigations | Public beta |
+| [**Replit**](https://docs.replit.com/replitai/fast-mode) | Free for a limited time | **Free for a limited time** | Idea to app, fast. Create beautiful, modern web applications at the speed of thought with the power of Replit's AI Agent. |  |
 
 ---
 
