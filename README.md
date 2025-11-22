@@ -98,28 +98,6 @@ AI tools for research, data analysis, and insights.
 
 ---
 
-## 📊 How to Use This List
-
-1. **Browse by Category**: Find the type of AI tool you need
-2. **Compare Deals**: Check regular prices vs. discounted offers
-3. **Check Validity**: Some deals are limited-time, others ongoing
-4. **Read Descriptions**: Understand what each tool offers
-5. **Try Free Tiers**: Many tools offer free tiers - start there!
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! To add a new AI deal:
-
-1. **Fork** this repository
-2. **Add** your deal in the appropriate category
-3. Use this format:
-   ```markdown
-   | [**Tool Name**](https://example.com) | $XX/month | **Discount details** | Description | Valid until |
-   ```
-4. **Create a Pull Request**
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=doanbactam/awesome-ai-deals&type=date&legend=top-left)](https://www.star-history.com/#doanbactam/awesome-ai-deals&type=date&legend=top-left)
