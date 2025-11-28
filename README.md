@@ -44,6 +44,7 @@ Access to cutting-edge AI models and APIs at discounted rates.
 | [**Google AI Studio**](https://ai.google.dev/) | Free | **100% FREE** | Free access to Gemini Pro API | Ongoing |
 | [**Perplexity API (Startups)**](https://www.perplexity.ai/startups) | Pay-per-use | **$5,000 API credits** | Eligible startups also get 6 months Enterprise Pro | Rolling |
 | [**MiniMax M2**](https://x.com/cline/status/1990590543303487659) | Free in Cline | **Free Limited** | MiniMax M2 is free again in Cline! | Limited times|
+| [**Grok 4.1 Fast**](https://openrouter.ai/x-ai/grok-4.1-fast:free) | Free limited | **Free API** | Free! | Limited times|
 
 ---
 
