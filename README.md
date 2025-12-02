@@ -1,4 +1,4 @@
-<img width="516" height="575" alt="image" src="https://github.com/user-attachments/assets/6caac92e-7dda-4687-832c-a19ebd944164" /># 🎉 Awesome AI Deals
+# 🎉 Awesome AI Deals
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--11-blue.svg)](https://github.com/doanbactam/awesome-ai-deals)
