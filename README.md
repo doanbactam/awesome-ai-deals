@@ -1,4 +1,4 @@
-# 🎉 Awesome AI Deals
+<img width="516" height="575" alt="image" src="https://github.com/user-attachments/assets/6caac92e-7dda-4687-832c-a19ebd944164" /># 🎉 Awesome AI Deals
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--11-blue.svg)](https://github.com/doanbactam/awesome-ai-deals)
@@ -30,6 +30,7 @@ Powerful AI-powered development environments and code editors.
 | [**Kiro IDE**](https://kiro.dev/startups/ "Kiro")      | **FREE ONE YEARS**                    |Kiro helps you do your best work by bringing structure to AI coding with                                                  | Kiro for startups              |
 | [**GitHub Copilot**](https://github.com/features/copilot) | $10/month | **Free for students** | AI pair programmer from GitHub and OpenAI | For verified students |
 | [**Google Antigravity**](https://antigravity.google/) |  |**FREE RATE LIMITS** | Google Antigravity Blinking CursorGoogle Antigravity is our agentic development platform, evolving the IDE into the agent-first era | Limited time
+| [**Kiro IDE**](https://kiro.dev) | **100% OFF | COUPON : HACKWITHKIRO25 |
 
 ---
 
