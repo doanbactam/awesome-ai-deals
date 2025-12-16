@@ -76,7 +76,10 @@ AI-powered design, image, and video generation tools.
 
 | Name | Regular Price | Discount | Description | Valid Until |
 |------|---------------|----------|-------------|-------------|
-
+| [**Leonardo.ai**](https://leonardo.ai/) | Free/Paid | **20% OFF** (Code: `LEO20`) | AI art generator for creating production-quality assets | Limited time |
+| [**Midjourney**](https://www.midjourney.com/) | $10/month | **20% OFF** | Save 20% on annual subscription plans | Ongoing |
+| [**Adobe Firefly**](https://www.adobe.com/products/firefly.html) | Included in CC | **~60% OFF** (Students) | Save on Creative Cloud All Apps (includes Firefly) | Verified students |
+| [**Canva**](https://www.canva.com/) | Free/Pro | **100% FREE** | Free Canva for Education for K-12 teachers and students | Ongoing |
 
 ---
 
@@ -86,7 +89,10 @@ AI assistants for writing, grammar, and content creation.
 
 | Name | Regular Price | Discount | Description | Valid Until |
 |------|---------------|----------|-------------|-------------|
-
+| [**Writesonic**](https://writesonic.com/) | Varies | **20% OFF** | Save 20% on annual plans (Code: `20SAVE`) | Limited time |
+| [**Copy.ai**](https://www.copy.ai/) | Free/Paid | **20% OFF** | Save 20% on annual plans | Ongoing |
+| [**Jasper**](https://www.jasper.ai/) | Varies | **20% OFF** | Save 20% on annual plans | Ongoing |
+| [**Quillbot**](https://quillbot.com/) | Free/Paid | **30-40% OFF** | Save up to 40% on annual premium plans | Limited time |
 
 ---
 
@@ -96,6 +102,9 @@ AI tools for research, data analysis, and insights.
 
 | Name | Regular Price | Discount | Description | Valid Until |
 |------|---------------|----------|-------------|-------------|
+| [**Elicit**](https://elicit.com/) | Free/Paid | **~20% OFF** | Save ~20% on annual Plus/Pro plans | Ongoing |
+| [**Consensus**](https://consensus.app/) | Free/Paid | **30% OFF** | Save 30% on annual premium plans (Code: `YEARLY30`) | Limited time |
+| [**Perplexity (Student)**](https://www.perplexity.ai/) | Free/Pro | **Discounts** | Student discounts available via Student Beans | Verified students |
 
 ---
 
