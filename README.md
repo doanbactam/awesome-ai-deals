@@ -30,6 +30,7 @@ Powerful AI-powered development environments and code editors.
 | [**Kiro IDE**](https://kiro.dev/startups/ "Kiro")      | **FREE ONE YEARS**                    |Kiro helps you do your best work by bringing structure to AI coding with                                                  | Kiro for startups              |
 | [**GitHub Copilot**](https://github.com/features/copilot) | $10/month | **Free for students** | AI pair programmer from GitHub and OpenAI | For verified students |
 | [**Google Antigravity**](https://antigravity.google/) |  |**FREE RATE LIMITS** | Google Antigravity Blinking CursorGoogle Antigravity is our agentic development platform, evolving the IDE into the agent-first era | Limited time
+| [**Build Crew**](https://www.buildcrew.team/) |  |**FREE 100$ AMPCODE ** | $100 Amp credit AMPCODE | Limited time
 
 ---
 
