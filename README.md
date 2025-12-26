@@ -30,7 +30,7 @@ Powerful AI-powered development environments and code editors.
 | [**Kiro IDE**](https://kiro.dev/startups/ "Kiro")      | **FREE ONE YEARS**                    |Kiro helps you do your best work by bringing structure to AI coding with                                                  | Kiro for startups              |
 | [**GitHub Copilot**](https://github.com/features/copilot) | $10/month | **Free for students** | AI pair programmer from GitHub and OpenAI | For verified students |
 | [**Google Antigravity**](https://antigravity.google/) |  |**FREE RATE LIMITS** | Google Antigravity Blinking CursorGoogle Antigravity is our agentic development platform, evolving the IDE into the agent-first era | Limited time
-| [**Build Crew**](https://www.buildcrew.team/) |  |**FREE 100$ AMPCODE ** | $100 Amp credit AMPCODE | Limited time
+| [**Build Crew**](https://www.buildcrew.team/) |  |**FREE 100$ AMPCODE** | $100 Amp credit AMPCODE | Limited time
 
 ---
 
@@ -45,8 +45,7 @@ Access to cutting-edge AI models and APIs at discounted rates.
 | [**Google AI Studio**](https://ai.google.dev/) | Free | **100% FREE** | Free access to Gemini Pro API | Ongoing |
 | [**Perplexity API (Startups)**](https://www.perplexity.ai/startups) | Pay-per-use | **$5,000 API credits** | Eligible startups also get 6 months Enterprise Pro | Rolling |
 | [**MiniMax M2**](https://x.com/cline/status/1990590543303487659) | Free in Cline | **Free Limited** | MiniMax M2 is free again in Cline! | Limited times|
-| [**Grok 4.1 Fast**](https://openrouter.ai/x-ai/grok-4.1-fast:free) | Free limited | **Free API** | Free! | Limited times|
-
+| [**Greptile**](https://app.greptile.com/signup?ref=NjE5MTItNDMzNjc=) | Free 3 Month | FEEDBACK | |Limited times|
 ---
 
 ## 🛠️ AI Developer Tools
