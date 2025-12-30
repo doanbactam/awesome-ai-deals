@@ -67,6 +67,7 @@ Conversational AI assistants and chatbot platforms.
 | Name | Regular Price | Discount | Description | Valid Until |
 |------|---------------|----------|-------------|-------------|
 | [**Perplexity Enterprise Pro (Startups)**](https://www.perplexity.ai/startups) | Varies | **6 months FREE** (up to 50 seats) | AI search assistant for teams; startup program | Rolling |
+| [**T3 Chat**](https://t3.chat/) | Free for a limited time | **1$/months** | Access premium AI models including GPT-4 and Claude for just $8/month
 
 ---
 
